@@ -1,4 +1,4 @@
-# second-repo
+# SECOND REPO
 
 This repo is to learn git
 
